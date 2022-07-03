@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Abrir la puerta",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "cerrar la puerta",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "cerrar con llave",
+        "estado": "pendiente"
+    }
+]
